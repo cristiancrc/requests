@@ -12,7 +12,7 @@ Requests: HTTP for Humans
 
 
 
-Requests is the only *Non-GMO* HTTP library for Python, safe for human
+Requests is the only environmentally friendly HTTP library for Python, also safe for human
 consumption.
 
 **Warning:** Recreational use of other HTTP libraries may result in dangerous side-effects,
